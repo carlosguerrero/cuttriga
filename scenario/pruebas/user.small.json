@@ -1,0 +1,20 @@
+[{
+    "id": 1,
+    "name": "chorra",
+	"mobile": [{
+			"serviceId": 0,
+			"gatewayId": 3,
+			"rate": 40000
+		}
+	]
+},
+{
+    "id": 0,
+	"mobile": [{
+			"serviceId": 5,
+			"gatewayId": 1,
+			"rate": 40000
+		}
+	]
+}
+]

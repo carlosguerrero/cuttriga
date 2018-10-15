@@ -1,0 +1,28 @@
+{
+	"entity": [{
+			"id": 0,
+			"type": Entity.ENTITY_CLUSTER,
+			"model": "Cluster",
+			"IPT": 1000,
+			"RAM": 4,
+			"COST": 1,
+			"WATT": 20.0
+		},
+		{
+			"id": 1,
+			"type": Entity.ENTITY_FOG,
+			"model": "F",
+			"IPT": 1000,
+			"RAM": 4,
+			"COST": 1,
+			"WATT": 20.0
+		}
+	],
+	"link": [{
+			"s": 0,
+			"d": 1,
+			"BW": 1,
+			"PR": 1
+		}
+	]
+}
